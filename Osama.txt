@@ -1,1 +1,1 @@
-Print('Free Palestine')
+Print('Free Gaza')
